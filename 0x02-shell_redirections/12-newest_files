@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t
+ls -t | head -n 12
